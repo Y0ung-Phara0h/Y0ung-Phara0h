@@ -65,6 +65,8 @@ class About extends Me {
   <!-- <a href="" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
   </a> -->
+  If you like what i do, maybe consider buying me a coffee/tea 🥰👉👈
+  
   <a href="https://ko-fi.com/F6P229ORJB" target="_blank">
       <img width="32%" alt="Donate with Paypal" src="https://github.com/Y0ung-Phara0h/Y0ung-Phara0h/blob/main/Support_me_1.gif?raw=true"/>
   </a>
@@ -83,8 +85,6 @@ class About extends Me {
 <pre><Strong>  Code.          Debug.          Repeat.</Strong></pre><br>
 
 <hr></hr>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Y0ung-Phara0h&style=for-the-badge&color=green&label=PROFILE+VIEWS)
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="45%"/>
