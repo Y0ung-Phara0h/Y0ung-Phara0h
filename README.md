@@ -55,15 +55,15 @@ class About extends Me {
 
 <div align="center" >
   
-<h2><strong>Support me ❤️</strong></h2>
+<h2><strong>-- Support me ❤️ --</strong></h2>
 
 <p align="center">
-  <!-- <a href="https://www.patreon.com/onimur" target="_blank">
+  <!-- <a href="https://www.patreon.com/User-Name" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a> -->
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+  <!-- <a href="" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
+  </a> -->
   <a href="https://ko-fi.com/F6P229ORJB" target="_blank">
       <img width="32%" alt="Donate with Paypal" src="https://github.com/Y0ung-Phara0h/Y0ung-Phara0h/blob/main/Support_me_1.gif?raw=true"/>
   </a>
@@ -71,9 +71,7 @@ class About extends Me {
 
 ---
   
-<hr>
-
-<h4><strong>Code Cycle</strong></h4><br>
+<h3><strong> # Code Cycle # </strong></h3><br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,7 +79,7 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<pre><Strong>Code.     Debug.     Repeat.</Strong></pre><br>
+<pre><Strong>Code.       Debug.       Repeat.</Strong></pre><br>
 
 <hr></hr>
 
