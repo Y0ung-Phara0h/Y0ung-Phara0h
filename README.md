@@ -55,7 +55,8 @@ class About extends Me {
 
 <div align="center" >
   
-<h2 style="padding:4px 6px; background-color:mintgreen; border-radius:10px"><strong>Support me ❤️</strong></h2>
+<!-- <h2 style="padding:4px 6px; background-color:mintgreen; border-radius:10px"><strong>Support me ❤️</strong></h2> -->
+![Support Me](https://img.shields.io/badge/Support%20Me-💚-brightgreen?style=for-the-badge)
 
 <p align="center">
   <!-- <a href="https://www.patreon.com/onimur" target="_blank">
