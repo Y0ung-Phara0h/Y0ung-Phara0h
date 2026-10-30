@@ -54,8 +54,10 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Pyramids are not Just 7000 Years Old, **it goes Beyond that**.<br>
 
 <div align="center" >
-  
-<h2><strong>-- Support me ❤️ --</strong></h2>
+
+---
+
+<h2><strong>^_^   Support me ❤️   ^_^</strong></h2>
 
 <p align="center">
   <!-- <a href="https://www.patreon.com/User-Name" target="_blank">
@@ -79,7 +81,7 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<pre><Strong>Code.       Debug.       Repeat.</Strong></pre><br>
+<pre><Strong>Code.         Debug.         Repeat.</Strong></pre><br>
 
 <hr></hr>
 
