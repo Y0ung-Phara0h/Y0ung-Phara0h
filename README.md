@@ -50,12 +50,12 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **.NET**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **New Tech and Problem Solving**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC building, Science, Cars, or Anything Related to Tech**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Aʙᴅ ⚡](https://t.me/Muslim_bin_ich)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Aʙᴅ⚡](https://t.me/Muslim_bin_ich)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Pyramids are not Just 7000 Years Old, **it goes Beyond that**.<br>
 
 <div align="center" >
   
-<h3><strong>Support me</strong></h3>
+<h2 style="padding:4px 6px; background-color:mintgreen; border-radius:10px"><strong>Support me ❤️</strong></h2>
 
 <p align="center">
   <!-- <a href="https://www.patreon.com/onimur" target="_blank">
@@ -81,11 +81,11 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<pre><Strong>Code.     Debug.     Repeat.   🚀</Strong></pre><br>
+<pre><Strong>Code.     Debug.     Repeat.</Strong></pre><br>
 
 <hr></hr>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Y0ung-Phara0h&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Y0ung-Phara0h&style=for-the-badge&color=green&label=PROFILE+VIEWS)
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="45%"/>
