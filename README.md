@@ -55,7 +55,7 @@ class About extends Me {
 
 <div align="center" >
   
-##**Support me**
+<h2>**Support me**</h2>
 
 <p align="center">
   <!-- <a href="https://www.patreon.com/onimur" target="_blank">
@@ -81,11 +81,11 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-**Code.     Debug.     Repeat.   🚀**<br>
+<pre>**Code.     Debug.     Repeat.   🚀**</pre><br>
 
 <hr></hr>
 
-!Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Y0ung-Phara0h&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
