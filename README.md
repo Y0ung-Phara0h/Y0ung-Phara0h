@@ -1,14 +1,13 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Y0ung-Phara0h" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/Y0ung-Phara0h/Y0ung-Phara0h/blob/main/Welcome_Image.gif?raw=true" href="https://github.com/Y0ung-Phara0h" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Y0ung-Phara0h" alt="Workspace"  width="40%"/><br> 
 
 <p align="center"><strong>  Software Engineer & Full-Stack Developer </strong></p>
-<p align="center"><strong>  Developer | Programmer | Tech Enthusiast </strong></p>
-
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/Muslim_bin_ich) <br>
+<p align="center"><strong>  Developer | Programmer | Tech Enthusiast </strong></p>
 </div>
 
 <hr></hr>
@@ -51,11 +50,13 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **.NET**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **New Tech and Problem Solving**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC building, Science, Cars, or Anything Related to Tech**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/Muslim_bin_ich)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Aʙᴅ ⚡](https://t.me/Muslim_bin_ich)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Pyramids are not Just 7000 Years Old, **it goes Beyond that**.<br>
 
 <div align="center" >
-## Support me
+  
+##**Support me**
+
 <p align="center">
   <!-- <a href="https://www.patreon.com/onimur" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
@@ -80,12 +81,13 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
+**Code.     Debug.     Repeat.   🚀**<br>
+
 <hr></hr>
 
-**Code. Debug. Repeat. 🚀**<br>
 !Profile Views
 
-Thanks for visiting my profile! ❤️
+<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
 </div>
