@@ -58,7 +58,6 @@ class About extends Me {
 ---
 
 <h2><strong>^_^   Support me ❤️   ^_^</strong></h2>
-
 <p align="center">
   <!-- <a href="https://www.patreon.com/User-Name" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
@@ -81,7 +80,7 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<pre><Strong>Code.         Debug.         Repeat.</Strong></pre><br>
+<pre><Strong>Code.           Debug.           Repeat.</Strong></pre><br>
 
 <hr></hr>
 
