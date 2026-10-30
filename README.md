@@ -3,7 +3,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Y0ung-Phara0h" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Y0ung-Phara0h" alt="Workspace"  width="40%"/><br> 
 
-<p><strong> <summary>  Software Engineer & Full-Stack Developer   </summary> </strong></p>
+<p align="center"><strong>  Software Engineer & Full-Stack Developer </strong></p>
+<p align="center"><strong>  Developer | Programmer | Tech Enthusiast </strong></p>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -79,8 +80,13 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
+<hr></hr>
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+**Code. Debug. Repeat. 🚀**<br>
+!Profile Views
+
+Thanks for visiting my profile! ❤️
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
 </div>
 
