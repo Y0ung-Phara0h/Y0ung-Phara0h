@@ -3,7 +3,7 @@
 <img src="https://github.com/Y0ung-Phara0h/Y0ung-Phara0h/blob/main/Welcome_Image.gif?raw=true" href="https://github.com/Y0ung-Phara0h" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Y0ung-Phara0h" alt="Workspace"  width="40%"/><br> 
 
-<p align="center"><strong>  Software Engineer & Full-Stack Developer </strong></p>
+<h2 align="center"><strong>  Software Engineer & Full-Stack Developer </strong></h2>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/Muslim_bin_ich) <br>
@@ -55,7 +55,7 @@ class About extends Me {
 
 <div align="center" >
   
-<h2>**Support me**</h2>
+<h3><strong>Support me</strong></h3>
 
 <p align="center">
   <!-- <a href="https://www.patreon.com/onimur" target="_blank">
@@ -71,9 +71,9 @@ class About extends Me {
 
 ---
   
-<hr></hr>
+<hr>
 
-**Code Cycle**<br>
+<h4><strong>Code Cycle</strong></h4><br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,14 +81,14 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-<pre>**Code.     Debug.     Repeat.   🚀**</pre><br>
+<pre><Strong>Code.     Debug.     Repeat.   🚀</Strong></pre><br>
 
 <hr></hr>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Y0ung-Phara0h&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="45%"/>
 
 </div>
 
