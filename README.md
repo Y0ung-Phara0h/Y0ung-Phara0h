@@ -65,7 +65,7 @@ class About extends Me {
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
   </a>
   
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F6P229ORJB)
+  [![ko-fi](https://github.com/Y0ung-Phara0h/Y0ung-Phara0h/blob/main/Support_me_1.gif?raw=true)](https://ko-fi.com/F6P229ORJB)
 </p>
 
 ---
